@@ -1,6 +1,6 @@
 This is a project done for class in Fall 2012 by Nora Hayes and Sam Mater.
 
-TextGeneration takes in three arguments command0line: k, M, and a file. k 
+TextGeneration takes in three command-line arguments: k, M, and a file. k 
 represents the number of characters used to generate each new character that
 the program prints out. This will affect how closely the generated text 
 matches the original -- we've found that a k between 7 and 20 seems to work 
