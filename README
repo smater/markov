@@ -1,0 +1,9 @@
+This is a project done for class in Fall 2012 by Nora Hayes and Sam Mater.
+
+TextGeneration takes in three arguments: k, M, and a file. k represents 
+the number of characters used to generate each new character that the 
+program prints out. This will affect how closely the generated text matches
+the original -- we've found that a k between 7 and 20 seems to work best.
+M is the number of characters that you want generated, and the file is the
+text that you are passing in. We've included buffy scripts and transcripts
+of the 2012 presidential debates as sample base text files.
